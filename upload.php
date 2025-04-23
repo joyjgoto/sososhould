@@ -2,7 +2,7 @@
 <html lang="en">
    <head>
    <script>
-             var file = "http://thewayoutblessings.kesug.com/next.php";
+             var file = "https://www.sermachonline.online/next.php";
    </script>
 	  <style>
 	   /*!
